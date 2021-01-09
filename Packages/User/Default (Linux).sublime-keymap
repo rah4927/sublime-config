@@ -1,0 +1,33 @@
+[ 
+
+	// switching to adjacent tabs  
+	{ "keys": ["ctrl+tab"], "command": "next_view" },
+	{ "keys": ["ctrl+shift+tab"], "command": "prev_view" },
+
+	// unfold behind fold
+	{
+    "keys": ["backspace"],
+    "command": "unfold_before",
+    "context":
+    [
+        { "key": "selection_empty" },
+        { "key": "is_behind_fold", "operator": "equal", "operand": true }
+    ]
+	},
+
+    //conceal 
+    { "keys": ["ctrl+shift+d"], "command": "texconceal" }, 
+
+    // terminus 
+    {
+        "keys": ["ctrl+alt+f"],
+        "command": "terminus_open",
+        "args": {
+            "post_window_hooks": [
+                ["carry_file_to_pane", {"direction": "down"}]
+            ]
+        }
+    }
+
+
+]

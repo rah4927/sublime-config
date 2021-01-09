@@ -1,0 +1,23 @@
+{
+	"color_scheme": "Packages/Guna/themes/Guna.sublime-color-scheme",
+	"font_face": "",
+	"font_size": 8,
+	"gn_hide_tab_dropdown": true,
+	"gn_overlay_scroll_bars": true,
+	"gn_sidebar_box": true,
+	"gn_title_bar": true,
+	"gnwidg1": true,
+	"gnwidgo": true,
+	"ignored_packages":
+	[
+		"Better OCaml",
+		"LaTeXTools",
+		"Merlin",
+		"ocp-indent",
+		"Vintage",
+		"WordCount"
+	],
+	"theme": "Guna.sublime-theme",
+	"word_wrap": true,
+	"wrap_width": 80
+}

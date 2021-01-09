@@ -1,0 +1,12 @@
+{
+    "variables":
+    {
+        "bgcolor" : "#161C23",
+    },
+    "globals":
+    {
+        // "fold_marker": "var(bgcolor)",
+        "fold_marker": "#bf616a",
+    },
+    
+}

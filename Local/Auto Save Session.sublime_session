@@ -1,0 +1,3041 @@
+{
+	"folder_history":
+	[
+		"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/database",
+		"/home/rsaha/Princeton/Courses/COS 333/project-ocw/database",
+		"/home/rsaha/.virtualenvs/cos333/lib/python3.7/site-packages/flask_sqlalchemy",
+		"/home/rsaha/.virtualenvs/cos333/lib/python3.7/site-packages/flask",
+		"/home/rsaha/.virtualenvs/cos333/lib/python3.7/site-packages/cloudinary",
+		"/home/rsaha/Princeton/Courses/COS 333/assignment-3/__pycache__",
+		"/home/rsaha/Princeton/Courses/Functional/a4",
+		"/home/rsaha/Princeton/Courses/JRN 260",
+		"/home/rsaha/Princeton/Courses/Functional/a2/data",
+		"/home/rsaha/Videos",
+		"/home/rsaha/texmf",
+		"/home/rsaha/Templates",
+		"/home/rsaha/snap",
+		"/home/rsaha/Public",
+		"/home/rsaha/Projects",
+		"/home/rsaha/Princeton",
+		"/home/rsaha/Pictures",
+		"/home/rsaha/Music",
+		"/home/rsaha/Dropbox",
+		"/home/rsaha/Downloads",
+		"/home/rsaha/Documents",
+		"/home/rsaha/Desktop",
+		"/home/rsaha/Appimage"
+	],
+	"last_version": 3211,
+	"last_window_id": 102,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"lower",
+						"lowercase_ascii"
+					],
+					[
+						"Array",
+						"ArraySeq\t"
+					],
+					[
+						"singleton",
+						"singleton_p"
+					],
+					[
+						"singlet",
+						"singleton_p"
+					],
+					[
+						"singe",
+						"singleton_seq"
+					],
+					[
+						"len",
+						"length"
+					],
+					[
+						"quicks",
+						"quicksort_grid"
+					],
+					[
+						"quick",
+						"quicksort_grid"
+					],
+					[
+						"equal",
+						"equal_seq"
+					],
+					[
+						"median",
+						"median_of_three"
+					],
+					[
+						"summed",
+						"summed_areas"
+					],
+					[
+						"asgt",
+						"asgt_index"
+					],
+					[
+						"video",
+						"videos_index"
+					],
+					[
+						"lect",
+						"lecture_index"
+					],
+					[
+						"as",
+						"asgt_index"
+					],
+					[
+						"vid",
+						"videos_index"
+					],
+					[
+						"lec",
+						"lecture_index"
+					],
+					[
+						"syllab",
+						"syllabus_index"
+					],
+					[
+						"row_pref",
+						"row_prefix_transpose\tint Sequence.S.t Sequence.S.t"
+					],
+					[
+						"prefix_sum",
+						"prefix_sum_grid"
+					],
+					[
+						"sequent",
+						"sequential_init"
+					],
+					[
+						"lo",
+						"lowercase_ascii\tstring -> string"
+					],
+					[
+						"ma",
+						"map_reduce"
+					],
+					[
+						"order",
+						"ordered_courses"
+					],
+					[
+						"uk-card",
+						"uk-card-body \tUIkit class"
+					],
+					[
+						"uk-divider",
+						"uk-grid-divider \tUIkit class"
+					],
+					[
+						"map",
+						"map_index_helper\t(Num.num -> 'a -> 'b) -> Num.num -> 'a str Lazy.t -> 'b str lazy_t"
+					],
+					[
+						"uk-margin-top",
+						"uk-margin-xlarge-top \tUIkit class"
+					],
+					[
+						"co",
+						"coursefiles"
+					],
+					[
+						"get",
+						"getcoursefiles"
+					],
+					[
+						"stri",
+						"string_of_set\tD.dict -> string"
+					],
+					[
+						"list",
+						"listify_s1\tD.key list"
+					],
+					[
+						"union",
+						"union_s1_s2\tset"
+					],
+					[
+						"num",
+						"num_neighbors"
+					],
+					[
+						"fold",
+						"fold_left"
+					],
+					[
+						"string_o",
+						"string_of_tree"
+					],
+					[
+						"string",
+						"string_of_dict"
+					],
+					[
+						"insert",
+						"insert_to_tree"
+					],
+					[
+						"send",
+						"sender_email"
+					],
+					[
+						"val",
+						"value"
+					],
+					[
+						"remov",
+						"remove_terminal_node"
+					],
+					[
+						"is",
+						"is_terminal_node"
+					],
+					[
+						"strin",
+						"string_of_key"
+					],
+					[
+						"uk-margin-",
+						"uk-margin-medium-top \tUIkit class"
+					],
+					[
+						"uk-marg",
+						"uk-margin-bottom \tUIkit class"
+					],
+					[
+						"uk-margin-t",
+						"uk-margin-large-top \tUIkit class"
+					],
+					[
+						"session",
+						"sessionmaker"
+					],
+					[
+						"gen",
+						"gen_gt\tC.t -> unit -> C.t"
+					],
+					[
+						"string_",
+						"string_of_key"
+					],
+					[
+						"uk-width-x",
+						"uk-width-expand \tUIkit class"
+					],
+					[
+						"uk-width",
+						"uk-width-medium \tUIkit class"
+					],
+					[
+						"uk-margin-bo",
+						"uk-margin-small-bottom \tUIkit class"
+					],
+					[
+						"uk-navbar-",
+						"uk-navbar-transparent \tUIkit class"
+					],
+					[
+						"uk-margin",
+						"uk-margin-top \tUIkit class"
+					],
+					[
+						"data",
+						"database_missing"
+					],
+					[
+						"query_da",
+						"query_database_slot"
+					],
+					[
+						"work",
+						"WorkerThread"
+					],
+					[
+						"_q",
+						"_query_args"
+					],
+					[
+						"back",
+						"background-size\tproperty"
+					],
+					[
+						"quer",
+						"query_database_slot"
+					],
+					[
+						"sear",
+						"search_results"
+					],
+					[
+						"error",
+						"errorMsg"
+					],
+					[
+						"sort",
+						"sortbysec"
+					],
+					[
+						"course",
+						"courseinfo"
+					],
+					[
+						"retur",
+						"returnPressed"
+					],
+					[
+						"query",
+						"query_database"
+					],
+					[
+						"free",
+						"free\tSyntax.exp -> Syntax.variable list"
+					],
+					[
+						"exp",
+						"exp\tfloat -> float"
+					],
+					[
+						"eval",
+						"evaluate_e1\tSyntax.exp"
+					],
+					[
+						"handle",
+						"handleClientReg"
+					],
+					[
+						"arguments",
+						"arguments_n"
+					],
+					[
+						"get_",
+						"get_port"
+					],
+					[
+						"title",
+						"title_edit"
+					],
+					[
+						"area",
+						"area_edit"
+					],
+					[
+						"qur",
+						"query_database"
+					],
+					[
+						"sqlite_",
+						"sqlite_args"
+					],
+					[
+						"argume",
+						"arguments_n"
+					],
+					[
+						"servr",
+						"serverSocket"
+					],
+					[
+						"server",
+						"serverSocket"
+					],
+					[
+						"interse",
+						"intersection"
+					],
+					[
+						"print",
+						"print_v"
+					],
+					[
+						"inters",
+						"intersection"
+					],
+					[
+						"abs",
+						"abs_float\tfloat -> float"
+					],
+					[
+						"test",
+						"test_expand_random\tint -> unit"
+					],
+					[
+						"monomi",
+						"monomial_list\tAst.expression list"
+					],
+					[
+						"expand",
+						"expand_loop\tAst.expression -> Ast.expression"
+					],
+					[
+						"mono",
+						"monomial_coefficient\tAst.expression -> float"
+					],
+					[
+						"mon",
+						"monomial_coefficient\tAst.expression -> float"
+					],
+					[
+						"max",
+						"max_deg\tint"
+					],
+					[
+						"compare",
+						"compare_pairs"
+					],
+					[
+						"comp",
+						"compare_pairs"
+					],
+					[
+						"revr",
+						"reverse_list\t'a list -> 'a list"
+					],
+					[
+						"wrap",
+						"wrap_and_print"
+					],
+					[
+						"courseid",
+						"string_courseid"
+					],
+					[
+						"deptn",
+						"deptnum_v"
+					],
+					[
+						"prere",
+						"prereqs"
+					],
+					[
+						"coursesin",
+						"coursesinfo_v"
+					],
+					[
+						"classes",
+						"classesinfo_v"
+					],
+					[
+						"class",
+						"classesinfo_v"
+					],
+					[
+						"classesinfo",
+						"classesinfocommand"
+					],
+					[
+						"classis",
+						"classesinfocommand"
+					],
+					[
+						"r_cour",
+						"r_coursenum"
+					],
+					[
+						"r_cours",
+						"r_courseid"
+					],
+					[
+						"where_",
+						"where_area"
+					],
+					[
+						"dept",
+						"dept_n"
+					],
+					[
+						"movie_",
+						"movie_gross\tmovie -> float"
+					],
+					[
+						"shift",
+						"shiftvalue\tint"
+					],
+					[
+						"movi",
+						"movie\ttype movie = string * string * float * int"
+					],
+					[
+						"studio",
+						"studio_gross_studio\tstudio_gross -> string"
+					],
+					[
+						"by",
+						"by_studio\tmovie list -> studio_gross list"
+					],
+					[
+						"studio_gross",
+						"studio_gross_gross\tstudio_gross -> float"
+					],
+					[
+						"movie",
+						"movie_gross\tmovie -> float"
+					],
+					[
+						"select",
+						"selection_sort\t'a less -> 'a list -> 'a list"
+					],
+					[
+						"adj",
+						"flightsToAdj"
+					],
+					[
+						"flig",
+						"flightsToAdj"
+					],
+					[
+						"pr",
+						"priority_queue"
+					],
+					[
+						"beg",
+						"begin"
+					],
+					[
+						"circu",
+						"circum"
+					],
+					[
+						"nord",
+						"nord_red"
+					],
+					[
+						"result",
+						"result\tfloat"
+					],
+					[
+						"float",
+						"float_of_int\tint -> float"
+					],
+					[
+						"vect",
+						"vector\tstandard header"
+					],
+					[
+						"oldcliq",
+						"oldCliqueSet"
+					],
+					[
+						"edg",
+						"edgeToMatrix"
+					],
+					[
+						"edge",
+						"edgeToMatrix"
+					],
+					[
+						"ed",
+						"edges"
+					],
+					[
+						"cyc",
+						"cycleToMap"
+					],
+					[
+						"cycle",
+						"cyclehasEnded"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C Single File.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Traditional"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Script Builder"
+						]
+					],
+					[
+						"Packages/LaTeXTools/LaTeX.sublime-build",
+						"PdfLaTeX"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/newPython3..sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/newPython3..sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/User/newPython3..sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/newPython3..sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/ocamlbuild.sublime-build",
+							""
+						],
+						[
+							"Packages/User/ocamlbuild.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/ocamlbuild.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"convert",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"enab",
+						"Package Control: Enable Package"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"disa\t",
+						"Package Control: Disable Package"
+					],
+					[
+						"d",
+						"Package Control: Disable Package"
+					],
+					[
+						"dis\t",
+						"Package Control: Disable Package"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"enab\t",
+						"Package Control: Enable Package"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"guna",
+						"Guna"
+					],
+					[
+						"",
+						"Guna"
+					],
+					[
+						"enabl\t",
+						"Package Control: Enable Package"
+					],
+					[
+						"isntal",
+						"Package Control: Install Package"
+					],
+					[
+						"open",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"resou",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"settings",
+						"Preferences: Settings"
+					],
+					[
+						"fold",
+						"Code Folding: Fold Tag Attributes"
+					],
+					[
+						"ena\t",
+						"Package Control: Enable Package"
+					],
+					[
+						"disable\t",
+						"Package Control: Disable Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"merlin",
+						"Merlin: Disable syntax extension"
+					],
+					[
+						"pa",
+						"Package Control: List Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"install\t",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: List Packages"
+					],
+					[
+						"termin",
+						"Preferences: Terminus Settings"
+					],
+					[
+						"mer",
+						"Preferences: Merlin Settings – User"
+					],
+					[
+						"ocp-\t",
+						"ocp-indent: Indent file"
+					],
+					[
+						"c++",
+						"Set Syntax: C++"
+					],
+					[
+						"terminus",
+						"Preferences: Terminus Settings"
+					],
+					[
+						"ocp",
+						"ocp-indent: Indent file"
+					],
+					[
+						"terminus ke",
+						"Preferences: Terminus Key Bindings"
+					],
+					[
+						"termi",
+						"Terminus: List Shells"
+					],
+					[
+						"resource",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"autosa",
+						"Toggle AutoSave: current file only"
+					],
+					[
+						"ocaml",
+						"Set Syntax: OCaml"
+					],
+					[
+						"list p",
+						"Package Control: List Packages"
+					],
+					[
+						"tab",
+						"Terminus: Maximize to Tab"
+					],
+					[
+						"term",
+						"Preferences: Terminus Settings"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"openre",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"enag",
+						"Package Control: Enable Package"
+					],
+					[
+						"resour",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"Ter",
+						"Terminus Utilities: Generate User Theme"
+					],
+					[
+						"ter",
+						"Terminus Utilities: Select Theme"
+					],
+					[
+						"t",
+						"Terminus: Close"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"remove ",
+						"Package Control: Remove Package"
+					],
+					[
+						"termina",
+						"Terminal: Open in project folder"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"utop",
+						"SublimeREPL: OCaml utop"
+					],
+					[
+						"syntax: text",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"repl",
+						"SublimeREPL: OCaml"
+					],
+					[
+						"res",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"PackageRes",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"ocp-i",
+						"ocp-indent: Indent selection"
+					],
+					[
+						"enable pack",
+						"Package Control: Enable Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"list ",
+						"Package Control: List Packages"
+					],
+					[
+						"lis",
+						"Package Control: List Packages"
+					],
+					[
+						"detex",
+						"LaTeXTools: Open Detexify"
+					],
+					[
+						"tabs",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"user",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"fonts",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"code fold",
+						"Preferences: Package Control Settings – Default"
+					],
+					[
+						"key ",
+						"Preferences: Key Bindings"
+					],
+					[
+						"insta\t",
+						"Package Control: Install Package"
+					],
+					[
+						"latex",
+						"LaTeXTools: Reset user settings to default"
+					],
+					[
+						"python",
+						"Set Syntax: Python"
+					],
+					[
+						"Latex",
+						"LaTeXTools: Reset user settings to default"
+					],
+					[
+						"view",
+						"View: Toggle Menu"
+					],
+					[
+						"settin",
+						"Preferences: Settings"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"ToD",
+						"Set Syntax: ToDone"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"pack\t",
+						"Package Control: Install Package"
+					],
+					[
+						"Packa",
+						"Package Control: Install Package"
+					],
+					[
+						" control",
+						"Package Control: Install Package"
+					],
+					[
+						"package control",
+						"Package Control: Add Channel"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 296.0,
+				"history":
+				[
+					"window.settings().set(\"sublime_merge_path\", \"/snap/bin/sublime-merge\")",
+					"window.settings().set(\"sublime_merge_path\", \"/snap/bin/subl\")",
+					"window.settings().set(\"sublime_merge_path\", \"/snap/bin/subl)",
+					"আমার নাম রাহুল সাহা উক্তি ",
+					"utop",
+					"top",
+					"import sys",
+					"import numpy",
+					"import numpt",
+					"1 + 2",
+					"env",
+					"print $PATH ",
+					"$PATH",
+					"opam config env",
+					"1",
+					"view.run_command('texconceal')",
+					"view.run_command('teXconceal')",
+					"view.run_command('hello')",
+					"a",
+					"view.run_command('viewcalculator')",
+					"view.run_command('haha')",
+					"view.run_command('conceal')",
+					"view.run_command('haha')",
+					"clear",
+					"Haha",
+					"hello",
+					"string = \"12\"",
+					"hello",
+					"hello = string ",
+					"string = \"123\" ",
+					"1 + 2",
+					"re.split('\\\\|:|{|}', latex)",
+					"import re",
+					"latex = \"\\rho \\oplus \\sigma: G \\to V \\oplus W\"",
+					"latex",
+					"latex = latex.replace('\\\\', ' ')",
+					"latex = \"\\rho \\oplus \\sigma: G \\to V \\oplus W\"",
+					"latex",
+					"latex.replace('o', 'p')",
+					"latex",
+					"latex = \"\\rho \\oplus \\sigma: G \\to V \\oplus W\"",
+					"latex = \\rho \\oplus \\sigma: G \\to V \\oplus W",
+					"latex",
+					"latex.replace('\\\\', ' ')",
+					"latex.replace('\\', ' ')",
+					"latex = \"\\rho \\oplus \\sigma: G \\to V \\oplus W\"",
+					"import re",
+					"1 + 2"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": true,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/rsaha/Princeton/Courses/Functional/prep/haha.txt",
+				"/home/rsaha/Princeton/Courses/Functional/a6/queue.txt",
+				"/home/rsaha/Princeton/Courses/Functional/a2/query.ml",
+				"/home/rsaha/Princeton/Courses/Functional/a6/theory.ml",
+				"/home/rsaha/Princeton/Courses/Functional/a2/main.ml",
+				"/home/rsaha/.cache/.fr-EHu7OS/exercise8.txt",
+				"/home/rsaha/.cache/.fr-qNHAyT/range.ml",
+				"/home/rsaha/Princeton/Courses/Comp Bio/trace-st/code/helper.py",
+				"/home/rsaha/Princeton/Courses/Functional/midterm.ml",
+				"/tmp/mozilla_rsaha0/range.mli",
+				"/home/rsaha/Princeton/Files/princeton-ocw-master/runtime.txt",
+				"/home/rsaha/Princeton/Courses/Functional/a7/query.ml",
+				"/home/rsaha/Princeton/Courses/Functional/a7/population.ml",
+				"/home/rsaha/Projects/teaching/crypto_1.tex",
+				"/home/rsaha/Princeton/Courses/JP/Presentation/JP_slides.tex",
+				"/tmp/mozilla_rsaha0/README.txt",
+				"/tmp/mozilla_rsaha0/inverted_index.ml",
+				"/home/rsaha/Princeton/Courses/Functional/a7/inverted_index.ml",
+				"/home/rsaha/Princeton/Courses/Functional/a7/sequence.ml",
+				"/home/rsaha/Princeton/Courses/Functional/a7/data/test_index_1000.txt",
+				"/home/rsaha/Princeton/Courses/Functional/a7/README.txt",
+				"/home/rsaha/Princeton/Courses/Functional/a7/data/test_index_10.txt",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/princetonocw.py",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/templates/orderfiles_spicy.html",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/templates/navbar_professor.html",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/templates/addcourse.html",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/templates/upload.html",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/static/css/uikit.min.css",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/contact.py",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/database.py",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/runserver.py",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/upload.py",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/CASClient.py",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/crud.py",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/course.py",
+				"/home/rsaha/Princeton/Courses/Functional/a7/util.ml",
+				"/home/rsaha/Princeton/Courses/JP/Proposal/JP_Proposal.tex",
+				"/home/rsaha/Princeton/Courses/JP/Proposal/written_project_proposal.tex",
+				"/home/rsaha/Princeton/Courses/JP/Presentation/presentation.tex",
+				"/home/rsaha/Princeton/Courses/JP/Presentation/FLT.tex",
+				"/home/rsaha/Princeton/Courses/Functional/a7/population.",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/templates/delete_spicy.html",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/templates/delete.html",
+				"/home/rsaha/Princeton/Courses/Functional/a7/data/CenPop2010.txt",
+				"/home/rsaha/Princeton/Courses/Functional/a7/temp.ml",
+				"/home/rsaha/Downloads/precept11/mr-movies.ml",
+				"/home/rsaha/Princeton/Courses/Functional/a7/Makefile",
+				"/home/rsaha/Princeton/Courses/Functional/a7/main_index.ml",
+				"/home/rsaha/Princeton/Courses/COS 333/project-ocw/database.py",
+				"/home/rsaha/Downloads/precept11/sequence.ml",
+				"/home/rsaha/Princeton/Courses/Functional/a7/data/test_index_1.txt",
+				"/home/rsaha/Princeton/Courses/Functional/a7/util.mli",
+				"/home/rsaha/Princeton/Courses/Functional/a7/examples.ml",
+				"/home/rsaha/Princeton/Courses/Functional/a7/data/test_index_2.txt",
+				"/home/rsaha/Downloads/precept11/sequence.mli",
+				"/home/rsaha/Princeton/Courses/Functional/a7/sequence.mli",
+				"/home/rsaha/Princeton/Courses/Functional/a7/.merlin",
+				"/home/rsaha/.cache/.fr-kJcQdc/parallel/Makefile",
+				"/home/rsaha/.cache/.fr-aRfVtg/parallel/counter.ml",
+				"/home/rsaha/.cache/.fr-jCZjRd/parallel/future.ml",
+				"/home/rsaha/.cache/.fr-saUlie/parallel/pmap.ml",
+				"/home/rsaha/.cache/.fr-bULVie/parallel/nondeterminism.ml",
+				"/home/rsaha/.cache/.fr-h4H9Yf/parallel/future.mli",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/templates/orderfiles.html",
+				"/home/rsaha/Projects/practice/haha.html",
+				"/home/rsaha/Downloads/PennyJavaScript/search.html",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/templates/prof_courses.html",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/templates/student.html",
+				"/home/rsaha/Projects/practice/randrand.txt",
+				"/home/rsaha/Downloads/PennyJavaScript/penny.py",
+				"/home/rsaha/Princeton/Courses/COS 333/assignment-1/createdata.py",
+				"/home/rsaha/Princeton/Courses/COS 333/assignment-1/reg_bkp1.py",
+				"/home/rsaha/Princeton/Courses/COS 333/assignment-1/reg_bkp_3.py",
+				"/home/rsaha/Princeton/Courses/COS 333/assignment-1/regdetails_bkp_1.py",
+				"/home/rsaha/Princeton/Courses/COS 333/assignment-1/regdetails.py",
+				"/home/rsaha/Princeton/Courses/COS 333/assignment-1/reg.py",
+				"/home/rsaha/Princeton/Courses/COS 333/assignment-1/temp.py",
+				"/home/rsaha/Princeton/Courses/COS 333/assignment-1/test_regdetails.py",
+				"/home/rsaha/Princeton/Courses/COS 333/assignment-1/test_reg.py",
+				"/home/rsaha/Princeton/Courses/JP/Draft/JP_draft.tex",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/templates/coursedetails.html",
+				"/home/rsaha/Downloads/PennyExpress/searchresults.html",
+				"/home/rsaha/Downloads/PennyExpress/searchform.html",
+				"/home/rsaha/Downloads/PennyExpress/database.js",
+				"/home/rsaha/Princeton/Courses/COS 333/assignment-5/regdetails.html",
+				"/home/rsaha/Princeton/Courses/COS 333/assignment-5/database.py",
+				"/home/rsaha/Princeton/Courses/Functional/a6/streams.ml",
+				"/home/rsaha/Princeton/Courses/Functional/a6/README.txt",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/templates/files_uploaded.html",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/templates/files_deleted.html",
+				"/home/rsaha/Projects/practice/proofs.txt",
+				"/home/rsaha/.cache/.fr-Ng9zxf/proofs.txt",
+				"/home/rsaha/Princeton/Courses/Functional/a6/Makefile",
+				"/home/rsaha/Projects/practice/range.ml",
+				"/home/rsaha/.cache/.fr-O5swgG/exercise8.txt",
+				"/home/rsaha/Projects/princeton-ocw/princetonocw.py",
+				"/home/rsaha/Projects/teaching/compbio.tex",
+				"/home/rsaha/Princeton/Courses/Functional/a5/moogle/notes.tex",
+				"/home/rsaha/Projects/teaching/Gonit_adda_1.tex",
+				"/home/rsaha/Princeton/Courses/Topology/midterm.tex",
+				"/home/rsaha/Princeton/Courses/Functional/a5/moogle/matrix.ml",
+				"/home/rsaha/Princeton/Courses/Functional/a5/moogle/README.txt",
+				"/home/rsaha/Princeton/Courses/Functional/a5/moogle/myset.ml",
+				"/home/rsaha/Princeton/Courses/Functional/a5/moogle/dict.ml",
+				"/home/rsaha/Projects/practice/compbio.py",
+				"/home/rsaha/Projects/practice/readrand.ml",
+				"/home/rsaha/Princeton/Courses/Functional/a5/moogle/graph.ml",
+				"/home/rsaha/Princeton/Courses/Functional/a5/moogle/nodescore.ml",
+				"/home/rsaha/Princeton/Courses/Functional/a5/moogle/pagerank.ml",
+				"/home/rsaha/Princeton/Courses/Functional/a5/moogle/.merlin",
+				"/home/rsaha/.cache/.fr-WZTzs9/moogle/.merlin",
+				"/home/rsaha/Princeton/Courses/COS 333/assignment-5/readme",
+				"/home/rsaha/Princeton/Courses/Functional/a5/moogle/pagerank.",
+				"/home/rsaha/Princeton/Courses/Functional/a5/moogle/crawl.ml",
+				"/home/rsaha/Princeton/Courses/Functional/a5/moogle/btdict_sort.txt",
+				"/home/rsaha/Princeton/Courses/Functional/a5/moogle/haha",
+				"/home/rsaha/Princeton/Courses/Functional/a5/moogle/moogle.ml",
+				"/home/rsaha/Princeton/Courses/Functional/a5/moogle/temp_sort.txt",
+				"/home/rsaha/Princeton/Courses/Functional/a5/moogle/diff3",
+				"/home/rsaha/Princeton/Courses/Functional/a5/moogle/temp.txt",
+				"/home/rsaha/Princeton/Courses/Functional/a5/moogle/btdict_li_sort.txt",
+				"/home/rsaha/Princeton/Courses/Functional/a5/moogle/diff2",
+				"/home/rsaha/Princeton/Courses/Functional/a5/moogle/btdict_li.txt",
+				"/home/rsaha/Princeton/Courses/Functional/a5/moogle/temp.ml",
+				"/home/rsaha/Princeton/Courses/Functional/a5/moogle/diff1.txt",
+				"/home/rsaha/Princeton/Courses/Functional/a5/moogle/assoc.txt",
+				"/home/rsaha/Princeton/Courses/Functional/a5/moogle/btdict.txt",
+				"/home/rsaha/Princeton/Courses/Functional/a5/moogle/result1.txt"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 206.0,
+				"where_history":
+				[
+					"temp.ml",
+					"untitled",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"order",
+					"order_spicy",
+					"contact",
+					"coursedeta",
+					"course_deta",
+					"login",
+					"filename",
+					"setgrid",
+					"query ",
+					"lower",
+					"order",
+					"videos",
+					"js-upload",
+					"IMap",
+					"word_loc_ind",
+					"load",
+					"S.append",
+					"result",
+					"search",
+					"future",
+					"DocID",
+					"PSeq.map",
+					"helporder",
+					"uploadBtn",
+					"checked",
+					"email",
+					"()\n",
+					"open ",
+					"TODO",
+					"dot",
+					"product",
+					"dot",
+					"fold ",
+					"pair",
+					"inorder",
+					"string_of_dict",
+					"string",
+					"choose",
+					"IntString",
+					"pairs1",
+					"empty",
+					"order",
+					"open",
+					"choose",
+					"generate_pair",
+					"search",
+					"remove_terminal_node",
+					"end",
+					"begin",
+					"replace",
+					"fold",
+					"temp",
+					"header",
+					"article title",
+					"uk-background",
+					"background",
+					"color",
+					"module D = ",
+					"dict",
+					"linkset",
+					"tcblisting",
+					"crawl",
+					"folder"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"remove_from_tree"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 36.0
+			},
+			"input":
+			{
+				"height": 81.0
+			},
+			"menu_visible": true,
+			"output.Terminus":
+			{
+				"height": 260.0
+			},
+			"output.Terminus 2":
+			{
+				"height": 260.0
+			},
+			"output.exec":
+			{
+				"height": 304.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.latextools":
+			{
+				"height": 312.0
+			},
+			"output.merlin":
+			{
+				"height": 248.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"~/garbage dump/something.tex"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 479.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 828.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"if",
+						"ifmain\tif __name__ == '__main__'"
+					],
+					[
+						"new",
+						"new_ys"
+					],
+					[
+						"valid",
+						"valid_num"
+					],
+					[
+						"lower",
+						"lowercase_ascii"
+					],
+					[
+						"Array",
+						"ArraySeq\t"
+					],
+					[
+						"singleton",
+						"singleton_p"
+					],
+					[
+						"singlet",
+						"singleton_p"
+					],
+					[
+						"singe",
+						"singleton_seq"
+					],
+					[
+						"len",
+						"length"
+					],
+					[
+						"quicks",
+						"quicksort_grid"
+					],
+					[
+						"quick",
+						"quicksort_grid"
+					],
+					[
+						"equal",
+						"equal_seq"
+					],
+					[
+						"median",
+						"median_of_three"
+					],
+					[
+						"summed",
+						"summed_areas"
+					],
+					[
+						"asgt",
+						"asgt_index"
+					],
+					[
+						"video",
+						"videos_index"
+					],
+					[
+						"lect",
+						"lecture_index"
+					],
+					[
+						"as",
+						"asgt_index"
+					],
+					[
+						"vid",
+						"videos_index"
+					],
+					[
+						"lec",
+						"lecture_index"
+					],
+					[
+						"syllab",
+						"syllabus_index"
+					],
+					[
+						"row_pref",
+						"row_prefix_transpose\tint Sequence.S.t Sequence.S.t"
+					],
+					[
+						"prefix_sum",
+						"prefix_sum_grid"
+					],
+					[
+						"sequent",
+						"sequential_init"
+					],
+					[
+						"lo",
+						"lowercase_ascii\tstring -> string"
+					],
+					[
+						"ma",
+						"map_reduce"
+					],
+					[
+						"order",
+						"ordered_courses"
+					],
+					[
+						"uk-card",
+						"uk-card-body \tUIkit class"
+					],
+					[
+						"uk-divider",
+						"uk-grid-divider \tUIkit class"
+					],
+					[
+						"map",
+						"map_index_helper\t(Num.num -> 'a -> 'b) -> Num.num -> 'a str Lazy.t -> 'b str lazy_t"
+					],
+					[
+						"uk-margin-top",
+						"uk-margin-xlarge-top \tUIkit class"
+					],
+					[
+						"co",
+						"coursefiles"
+					],
+					[
+						"get",
+						"getcoursefiles"
+					],
+					[
+						"stri",
+						"string_of_set\tD.dict -> string"
+					],
+					[
+						"list",
+						"listify_s1\tD.key list"
+					],
+					[
+						"union",
+						"union_s1_s2\tset"
+					],
+					[
+						"num",
+						"num_neighbors"
+					],
+					[
+						"fold",
+						"fold_left"
+					],
+					[
+						"string_o",
+						"string_of_tree"
+					],
+					[
+						"string",
+						"string_of_dict"
+					],
+					[
+						"insert",
+						"insert_to_tree"
+					],
+					[
+						"send",
+						"sender_email"
+					],
+					[
+						"val",
+						"value"
+					],
+					[
+						"remov",
+						"remove_terminal_node"
+					],
+					[
+						"is",
+						"is_terminal_node"
+					],
+					[
+						"strin",
+						"string_of_key"
+					],
+					[
+						"uk-margin-",
+						"uk-margin-medium-top \tUIkit class"
+					],
+					[
+						"uk-marg",
+						"uk-margin-bottom \tUIkit class"
+					],
+					[
+						"uk-margin-t",
+						"uk-margin-large-top \tUIkit class"
+					],
+					[
+						"session",
+						"sessionmaker"
+					],
+					[
+						"gen",
+						"gen_gt\tC.t -> unit -> C.t"
+					],
+					[
+						"string_",
+						"string_of_key"
+					],
+					[
+						"uk-width-x",
+						"uk-width-expand \tUIkit class"
+					],
+					[
+						"uk-width",
+						"uk-width-medium \tUIkit class"
+					],
+					[
+						"uk-margin-bo",
+						"uk-margin-small-bottom \tUIkit class"
+					],
+					[
+						"uk-navbar-",
+						"uk-navbar-transparent \tUIkit class"
+					],
+					[
+						"uk-margin",
+						"uk-margin-top \tUIkit class"
+					],
+					[
+						"data",
+						"database_missing"
+					],
+					[
+						"query_da",
+						"query_database_slot"
+					],
+					[
+						"work",
+						"WorkerThread"
+					],
+					[
+						"_q",
+						"_query_args"
+					],
+					[
+						"back",
+						"background-size\tproperty"
+					],
+					[
+						"quer",
+						"query_database_slot"
+					],
+					[
+						"sear",
+						"search_results"
+					],
+					[
+						"error",
+						"errorMsg"
+					],
+					[
+						"sort",
+						"sortbysec"
+					],
+					[
+						"course",
+						"courseinfo"
+					],
+					[
+						"retur",
+						"returnPressed"
+					],
+					[
+						"query",
+						"query_database"
+					],
+					[
+						"free",
+						"free\tSyntax.exp -> Syntax.variable list"
+					],
+					[
+						"exp",
+						"exp\tfloat -> float"
+					],
+					[
+						"eval",
+						"evaluate_e1\tSyntax.exp"
+					],
+					[
+						"handle",
+						"handleClientReg"
+					],
+					[
+						"arguments",
+						"arguments_n"
+					],
+					[
+						"get_",
+						"get_port"
+					],
+					[
+						"title",
+						"title_edit"
+					],
+					[
+						"area",
+						"area_edit"
+					],
+					[
+						"qur",
+						"query_database"
+					],
+					[
+						"sqlite_",
+						"sqlite_args"
+					],
+					[
+						"argume",
+						"arguments_n"
+					],
+					[
+						"servr",
+						"serverSocket"
+					],
+					[
+						"server",
+						"serverSocket"
+					],
+					[
+						"interse",
+						"intersection"
+					],
+					[
+						"print",
+						"print_v"
+					],
+					[
+						"inters",
+						"intersection"
+					],
+					[
+						"abs",
+						"abs_float\tfloat -> float"
+					],
+					[
+						"test",
+						"test_expand_random\tint -> unit"
+					],
+					[
+						"monomi",
+						"monomial_list\tAst.expression list"
+					],
+					[
+						"expand",
+						"expand_loop\tAst.expression -> Ast.expression"
+					],
+					[
+						"mono",
+						"monomial_coefficient\tAst.expression -> float"
+					],
+					[
+						"mon",
+						"monomial_coefficient\tAst.expression -> float"
+					],
+					[
+						"max",
+						"max_deg\tint"
+					],
+					[
+						"compare",
+						"compare_pairs"
+					],
+					[
+						"comp",
+						"compare_pairs"
+					],
+					[
+						"revr",
+						"reverse_list\t'a list -> 'a list"
+					],
+					[
+						"wrap",
+						"wrap_and_print"
+					],
+					[
+						"courseid",
+						"string_courseid"
+					],
+					[
+						"deptn",
+						"deptnum_v"
+					],
+					[
+						"prere",
+						"prereqs"
+					],
+					[
+						"coursesin",
+						"coursesinfo_v"
+					],
+					[
+						"classes",
+						"classesinfo_v"
+					],
+					[
+						"class",
+						"classesinfo_v"
+					],
+					[
+						"classesinfo",
+						"classesinfocommand"
+					],
+					[
+						"classis",
+						"classesinfocommand"
+					],
+					[
+						"r_cour",
+						"r_coursenum"
+					],
+					[
+						"r_cours",
+						"r_courseid"
+					],
+					[
+						"where_",
+						"where_area"
+					],
+					[
+						"dept",
+						"dept_n"
+					],
+					[
+						"movie_",
+						"movie_gross\tmovie -> float"
+					],
+					[
+						"shift",
+						"shiftvalue\tint"
+					],
+					[
+						"movi",
+						"movie\ttype movie = string * string * float * int"
+					],
+					[
+						"studio",
+						"studio_gross_studio\tstudio_gross -> string"
+					],
+					[
+						"by",
+						"by_studio\tmovie list -> studio_gross list"
+					],
+					[
+						"studio_gross",
+						"studio_gross_gross\tstudio_gross -> float"
+					],
+					[
+						"movie",
+						"movie_gross\tmovie -> float"
+					],
+					[
+						"select",
+						"selection_sort\t'a less -> 'a list -> 'a list"
+					],
+					[
+						"adj",
+						"flightsToAdj"
+					],
+					[
+						"flig",
+						"flightsToAdj"
+					],
+					[
+						"pr",
+						"priority_queue"
+					],
+					[
+						"beg",
+						"begin"
+					],
+					[
+						"circu",
+						"circum"
+					],
+					[
+						"nord",
+						"nord_red"
+					],
+					[
+						"result",
+						"result\tfloat"
+					],
+					[
+						"float",
+						"float_of_int\tint -> float"
+					],
+					[
+						"vect",
+						"vector\tstandard header"
+					],
+					[
+						"oldcliq",
+						"oldCliqueSet"
+					],
+					[
+						"edg",
+						"edgeToMatrix"
+					],
+					[
+						"edge",
+						"edgeToMatrix"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "rsaha@rahul-HP:~/.config$ cd sublime-\nbash: cd: sublime-: No such file or directory\nrsaha@rahul-HP:~/.config$ cd sublime-text-3/\nrsaha@rahul-HP:~/.config/sublime-text-3$ git init\nInitialized empty Git repository in /home/rsaha/.config/sublime-text-3/.git/\nrsaha@rahul-HP:~/.config/sublime-text-3$ git commit -m \"first commit\"\nOn branch master               \n\nInitial commit                          \n\nUntracked files:                                 \n  (use \"git add <file>...\" to include in what will be committed)\n        Backup/                                                                   \n        Cache/              \n        Installed Packages/                                                          \n        Lib/                                                                        \n        Local/                                                                        \n        Packages/                                                              \n\nnothing added to commit but untracked files present (use \"git add\" to track)  \nrsaha@rahul-HP:~/.config/sublime-text-3$ git add .\n\nrsaha@rahul-HP:~/.config/sublime-text-3$                                                  \nrsaha@rahul-HP:~/.config/sublime-text-3$ ",
+					"settings":
+					{
+						"buffer_size": 1230,
+						"line_ending": "Unix",
+						"name": "Login Shell",
+						"scratch": true
+					}
+				}
+			],
+			"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C Single File.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Traditional"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Script Builder"
+						]
+					],
+					[
+						"Packages/LaTeXTools/LaTeX.sublime-build",
+						"PdfLaTeX"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/newPython3..sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/newPython3..sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/User/newPython3..sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/newPython3..sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/ocamlbuild.sublime-build",
+							""
+						],
+						[
+							"Packages/User/ocamlbuild.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/ocamlbuild.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"clear",
+						"Bookmarks: Clear All"
+					],
+					[
+						"enab",
+						"Package Control: Enable Package"
+					],
+					[
+						"disable all",
+						"Package Control: Disable Package"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"dis\t",
+						"Package Control: Disable Package"
+					],
+					[
+						"open",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"convert",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"disa\t",
+						"Package Control: Disable Package"
+					],
+					[
+						"d",
+						"Package Control: Disable Package"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"enab\t",
+						"Package Control: Enable Package"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"guna",
+						"Guna"
+					],
+					[
+						"",
+						"Guna"
+					],
+					[
+						"enabl\t",
+						"Package Control: Enable Package"
+					],
+					[
+						"isntal",
+						"Package Control: Install Package"
+					],
+					[
+						"resou",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"settings",
+						"Preferences: Settings"
+					],
+					[
+						"fold",
+						"Code Folding: Fold Tag Attributes"
+					],
+					[
+						"ena\t",
+						"Package Control: Enable Package"
+					],
+					[
+						"disable\t",
+						"Package Control: Disable Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"merlin",
+						"Merlin: Disable syntax extension"
+					],
+					[
+						"pa",
+						"Package Control: List Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"install\t",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: List Packages"
+					],
+					[
+						"termin",
+						"Preferences: Terminus Settings"
+					],
+					[
+						"mer",
+						"Preferences: Merlin Settings – User"
+					],
+					[
+						"ocp-\t",
+						"ocp-indent: Indent file"
+					],
+					[
+						"c++",
+						"Set Syntax: C++"
+					],
+					[
+						"terminus",
+						"Preferences: Terminus Settings"
+					],
+					[
+						"ocp",
+						"ocp-indent: Indent file"
+					],
+					[
+						"terminus ke",
+						"Preferences: Terminus Key Bindings"
+					],
+					[
+						"termi",
+						"Terminus: List Shells"
+					],
+					[
+						"resource",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"autosa",
+						"Toggle AutoSave: current file only"
+					],
+					[
+						"ocaml",
+						"Set Syntax: OCaml"
+					],
+					[
+						"list p",
+						"Package Control: List Packages"
+					],
+					[
+						"tab",
+						"Terminus: Maximize to Tab"
+					],
+					[
+						"term",
+						"Preferences: Terminus Settings"
+					],
+					[
+						"openre",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"enag",
+						"Package Control: Enable Package"
+					],
+					[
+						"resour",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"Ter",
+						"Terminus Utilities: Generate User Theme"
+					],
+					[
+						"ter",
+						"Terminus Utilities: Select Theme"
+					],
+					[
+						"t",
+						"Terminus: Close"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"remove ",
+						"Package Control: Remove Package"
+					],
+					[
+						"termina",
+						"Terminal: Open in project folder"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"utop",
+						"SublimeREPL: OCaml utop"
+					],
+					[
+						"syntax: text",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"repl",
+						"SublimeREPL: OCaml"
+					],
+					[
+						"res",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"PackageRes",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"ocp-i",
+						"ocp-indent: Indent selection"
+					],
+					[
+						"enable pack",
+						"Package Control: Enable Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"list ",
+						"Package Control: List Packages"
+					],
+					[
+						"lis",
+						"Package Control: List Packages"
+					],
+					[
+						"detex",
+						"LaTeXTools: Open Detexify"
+					],
+					[
+						"tabs",
+						"Indentation: Convert to Tabs"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"user",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"fonts",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"code fold",
+						"Preferences: Package Control Settings – Default"
+					],
+					[
+						"key ",
+						"Preferences: Key Bindings"
+					],
+					[
+						"insta\t",
+						"Package Control: Install Package"
+					],
+					[
+						"latex",
+						"LaTeXTools: Reset user settings to default"
+					],
+					[
+						"python",
+						"Set Syntax: Python"
+					],
+					[
+						"Latex",
+						"LaTeXTools: Reset user settings to default"
+					],
+					[
+						"view",
+						"View: Toggle Menu"
+					],
+					[
+						"settin",
+						"Preferences: Settings"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"ToD",
+						"Set Syntax: ToDone"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"pack\t",
+						"Package Control: Install Package"
+					],
+					[
+						"Packa",
+						"Package Control: Install Package"
+					],
+					[
+						" control",
+						"Package Control: Install Package"
+					],
+					[
+						"package control",
+						"Package Control: Add Channel"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 296.0,
+				"history":
+				[
+					"window.settings().set(\"sublime_merge_path\", \"/snap/bin/sublime-merge\")",
+					"window.settings().set(\"sublime_merge_path\", \"/snap/bin/subl\")",
+					"window.settings().set(\"sublime_merge_path\", \"/snap/bin/subl)",
+					"আমার নাম রাহুল সাহা উক্তি ",
+					"utop",
+					"top",
+					"import sys",
+					"import numpy",
+					"import numpt",
+					"1 + 2",
+					"env",
+					"print $PATH ",
+					"$PATH",
+					"opam config env",
+					"1",
+					"view.run_command('texconceal')",
+					"view.run_command('teXconceal')",
+					"view.run_command('hello')",
+					"a",
+					"view.run_command('viewcalculator')",
+					"view.run_command('haha')",
+					"view.run_command('conceal')",
+					"view.run_command('haha')",
+					"clear",
+					"Haha",
+					"hello",
+					"string = \"12\"",
+					"hello",
+					"hello = string ",
+					"string = \"123\" ",
+					"1 + 2",
+					"re.split('\\\\|:|{|}', latex)",
+					"import re",
+					"latex = \"\\rho \\oplus \\sigma: G \\to V \\oplus W\"",
+					"latex",
+					"latex = latex.replace('\\\\', ' ')",
+					"latex = \"\\rho \\oplus \\sigma: G \\to V \\oplus W\"",
+					"latex",
+					"latex.replace('o', 'p')",
+					"latex",
+					"latex = \"\\rho \\oplus \\sigma: G \\to V \\oplus W\"",
+					"latex = \\rho \\oplus \\sigma: G \\to V \\oplus W",
+					"latex",
+					"latex.replace('\\\\', ' ')",
+					"latex.replace('\\', ' ')",
+					"latex = \"\\rho \\oplus \\sigma: G \\to V \\oplus W\"",
+					"import re",
+					"1 + 2"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": true,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/rsaha/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/rsaha/Projects/pumac3/manage.py",
+				"/home/rsaha/Projects/pumac3/local_settings.py",
+				"/home/rsaha/.bashrc",
+				"/home/rsaha/Princeton/Courses/JP (Fall)/Paper/juniorpaper.sty",
+				"/home/rsaha/Princeton/Courses/JP (Fall)/Paper/references.bib",
+				"/home/rsaha/Princeton/Courses/JP (Fall)/Paper/main.tex",
+				"/home/rsaha/Princeton/Courses/JP (Fall)/Paper/fixedsmallcomposite.tex",
+				"/home/rsaha/Princeton/Courses/JP/Paper/main.tex",
+				"/home/rsaha/Princeton/Courses/JP/Paper/.gitignore",
+				"/home/rsaha/Projects/qbook/.gitignore",
+				"/home/rsaha/meeting_saved_chat.txt",
+				"/home/rsaha/Princeton/Courses/JP/Paper/references.bib",
+				"/home/rsaha/Princeton/Courses/JP/Paper/juniorpaper.sty",
+				"/home/rsaha/Princeton/Courses/ANT/Final.tex",
+				"/home/rsaha/Projects/qbook/main.tex",
+				"/home/rsaha/Princeton/Courses/JP/Paper/draft.tex",
+				"/home/rsaha/Projects/qbook/chap/is_one_prime.tex",
+				"/home/rsaha/Projects/qbook/chap/eqn-solving.tex",
+				"/home/rsaha/Projects/qbook/chap/eqn-solving.aux",
+				"/home/rsaha/Projects/qbook/chap/what_is_math.tex",
+				"/home/rsaha/Projects/qbook/chap/recurring_decimal.tex",
+				"/home/rsaha/Princeton/Courses/JP/Presentation/JP_slides.tex",
+				"/home/rsaha/Princeton/Courses/Representation Theory/rep_theory.tex",
+				"/home/rsaha/Princeton/Courses/JP/Paper/typeset.tex",
+				"/home/rsaha/Princeton/Courses/JP/Paper/layout.tex",
+				"/home/rsaha/Princeton/Courses/JP/Presentation/JP_slides.synctex.gz",
+				"/home/rsaha/Princeton/Courses/JP/Presentation/JP_slides.fdb_latexmk",
+				"/home/rsaha/Projects/latex_style/recurring_decimal.tex",
+				"/home/rsaha/Princeton/Courses/JP/Paper/biblatex/README",
+				"/home/rsaha/texmf/ls-R",
+				"/usr/local/share/texmf/ls-R",
+				"/home/rsaha/Princeton/Courses/JP/Paper/layout.toc",
+				"/home/rsaha/Princeton/Courses/JP/Draft/JP_draft.tex",
+				"/home/rsaha/Princeton/Courses/JP/Draft/typeset.tex",
+				"/home/rsaha/Princeton/Courses/JP/Draft/layout.tex",
+				"/home/rsaha/Princeton/Courses/JP/Draft/juniorpaper.sty",
+				"/home/rsaha/Princeton/Courses/JP/Draft/haha.tex",
+				"/home/rsaha/Princeton/Courses/JP/Draft/rsaha.sty",
+				"/home/rsaha/Projects/practice/coprime_matching.py",
+				"/home/rsaha/Projects/sty/main.tex",
+				"/home/rsaha/Projects/sty/tcbs.sty",
+				"/home/rsaha/texmf/tex/latex/rsaha.sty",
+				"/home/rsaha/Projects/practice/haha.tex",
+				"/home/rsaha/Downloads/Telegram Desktop/main.tex",
+				"/home/rsaha/Princeton/Courses/Functional/a7/population.ml",
+				"/home/rsaha/Templates/latex-document.tex",
+				"/home/rsaha/Princeton/Courses/Comp Bio/trace-st (copy)/code/Tutorial.ipynb",
+				"/home/rsaha/Princeton/Courses/Functional/Final/random.txt",
+				"/tmp/mozilla_rsaha0/appointment.ics",
+				"/tmp/mozilla_rsaha0/exam-2.ml",
+				"/home/rsaha/Princeton/Courses/Functional/Final/exam.ml",
+				"/tmp/mozilla_rsaha0/exam-1.ml",
+				"/tmp/mozilla_rsaha0/exam.ml",
+				"/home/rsaha/Princeton/Courses/Functional/midterm.ml",
+				"/home/rsaha/.cache/.fr-fPioRU/2018_midterm/proofs.txt",
+				"/home/rsaha/Princeton/Courses/Functional/a4/proofs.txt",
+				"/home/rsaha/Princeton/Courses/Functional/prep/haha.txt",
+				"/home/rsaha/Princeton/Courses/Functional/a6/queue.txt",
+				"/home/rsaha/Princeton/Courses/Functional/a2/query.ml",
+				"/home/rsaha/Princeton/Courses/Functional/a6/theory.ml",
+				"/home/rsaha/Princeton/Courses/Functional/a2/main.ml",
+				"/home/rsaha/.cache/.fr-EHu7OS/exercise8.txt",
+				"/home/rsaha/.cache/.fr-qNHAyT/range.ml",
+				"/home/rsaha/Princeton/Courses/Comp Bio/trace-st/code/helper.py",
+				"/tmp/mozilla_rsaha0/range.mli",
+				"/home/rsaha/Princeton/Files/princeton-ocw-master/runtime.txt",
+				"/home/rsaha/Princeton/Courses/Functional/a7/query.ml",
+				"/home/rsaha/Projects/teaching/crypto_1.tex",
+				"/tmp/mozilla_rsaha0/README.txt",
+				"/tmp/mozilla_rsaha0/inverted_index.ml",
+				"/home/rsaha/Princeton/Courses/Functional/a7/inverted_index.ml",
+				"/home/rsaha/Princeton/Courses/Functional/a7/sequence.ml",
+				"/home/rsaha/Princeton/Courses/Functional/a7/data/test_index_1000.txt",
+				"/home/rsaha/Princeton/Courses/Functional/a7/README.txt",
+				"/home/rsaha/Princeton/Courses/Functional/a7/data/test_index_10.txt",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/princetonocw.py",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/templates/orderfiles_spicy.html",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/templates/navbar_professor.html",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/templates/addcourse.html",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/templates/upload.html",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/static/css/uikit.min.css",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/contact.py",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/database.py",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/runserver.py",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/upload.py",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/CASClient.py",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/crud.py",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/course.py",
+				"/home/rsaha/Princeton/Courses/Functional/a7/util.ml",
+				"/home/rsaha/Princeton/Courses/JP/Proposal/JP_Proposal.tex",
+				"/home/rsaha/Princeton/Courses/JP/Proposal/written_project_proposal.tex",
+				"/home/rsaha/Princeton/Courses/JP/Presentation/presentation.tex",
+				"/home/rsaha/Princeton/Courses/JP/Presentation/FLT.tex",
+				"/home/rsaha/Princeton/Courses/Functional/a7/population.",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/templates/delete_spicy.html",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/templates/delete.html",
+				"/home/rsaha/Princeton/Courses/Functional/a7/data/CenPop2010.txt",
+				"/home/rsaha/Princeton/Courses/Functional/a7/temp.ml",
+				"/home/rsaha/Downloads/precept11/mr-movies.ml",
+				"/home/rsaha/Princeton/Courses/Functional/a7/Makefile",
+				"/home/rsaha/Princeton/Courses/Functional/a7/main_index.ml",
+				"/home/rsaha/Princeton/Courses/COS 333/project-ocw/database.py",
+				"/home/rsaha/Downloads/precept11/sequence.ml",
+				"/home/rsaha/Princeton/Courses/Functional/a7/data/test_index_1.txt",
+				"/home/rsaha/Princeton/Courses/Functional/a7/util.mli",
+				"/home/rsaha/Princeton/Courses/Functional/a7/examples.ml",
+				"/home/rsaha/Princeton/Courses/Functional/a7/data/test_index_2.txt",
+				"/home/rsaha/Downloads/precept11/sequence.mli",
+				"/home/rsaha/Princeton/Courses/Functional/a7/sequence.mli",
+				"/home/rsaha/Princeton/Courses/Functional/a7/.merlin",
+				"/home/rsaha/.cache/.fr-kJcQdc/parallel/Makefile",
+				"/home/rsaha/.cache/.fr-aRfVtg/parallel/counter.ml",
+				"/home/rsaha/.cache/.fr-jCZjRd/parallel/future.ml",
+				"/home/rsaha/.cache/.fr-saUlie/parallel/pmap.ml",
+				"/home/rsaha/.cache/.fr-bULVie/parallel/nondeterminism.ml",
+				"/home/rsaha/.cache/.fr-h4H9Yf/parallel/future.mli",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/templates/orderfiles.html",
+				"/home/rsaha/Projects/practice/haha.html",
+				"/home/rsaha/Downloads/PennyJavaScript/search.html",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/templates/prof_courses.html",
+				"/home/rsaha/Princeton/Courses/COS 333/princeton-ocw/templates/student.html",
+				"/home/rsaha/Projects/practice/randrand.txt",
+				"/home/rsaha/Downloads/PennyJavaScript/penny.py",
+				"/home/rsaha/Princeton/Courses/COS 333/assignment-1/createdata.py",
+				"/home/rsaha/Princeton/Courses/COS 333/assignment-1/reg_bkp1.py",
+				"/home/rsaha/Princeton/Courses/COS 333/assignment-1/reg_bkp_3.py",
+				"/home/rsaha/Princeton/Courses/COS 333/assignment-1/regdetails_bkp_1.py"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 206.0,
+				"where_history":
+				[
+					"temp.ml",
+					"untitled",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"OR function",
+					"bhow",
+					"novel",
+					"nocel",
+					"article",
+					"font",
+					"\\pr ",
+					"\\pr(",
+					"\\pr",
+					"\\Pr",
+					"\\pr",
+					"pr",
+					"good function",
+					"{good function}",
+					"good function if",
+					"There exists a matchin",
+					"artin",
+					"frame",
+					"claim",
+					"tcolorbox",
+					"order",
+					"order_spicy",
+					"contact",
+					"coursedeta",
+					"course_deta",
+					"login",
+					"filename",
+					"setgrid",
+					"query ",
+					"lower",
+					"order",
+					"videos",
+					"js-upload",
+					"IMap",
+					"word_loc_ind",
+					"load",
+					"S.append",
+					"result",
+					"search",
+					"future",
+					"DocID",
+					"PSeq.map",
+					"helporder",
+					"uploadBtn",
+					"checked",
+					"email",
+					"()\n",
+					"open ",
+					"TODO",
+					"dot",
+					"product",
+					"dot",
+					"fold ",
+					"pair",
+					"inorder",
+					"string_of_dict",
+					"string",
+					"choose",
+					"IntString",
+					"pairs1",
+					"empty",
+					"order",
+					"open",
+					"choose",
+					"generate_pair",
+					"search",
+					"remove_terminal_node",
+					"end",
+					"begin",
+					"replace",
+					"fold",
+					"temp",
+					"header",
+					"article title",
+					"uk-background",
+					"background",
+					"color",
+					"module D = ",
+					"dict",
+					"linkset",
+					"tcblisting",
+					"crawl",
+					"folder"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"remove_from_tree"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1230,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1230,
+										1230
+									]
+								],
+								"settings":
+								{
+									"__vi_external_disable": true,
+									"auto_complete": false,
+									"auto_complete_commit_on_tab": false,
+									"bracket_highlighter.clone_locations":
+									{
+									},
+									"bracket_highlighter.ignore": true,
+									"color_scheme": "Terminus.hidden-color-scheme",
+									"draw_centered": false,
+									"draw_indent_guides": false,
+									"draw_unicode_white_space": false,
+									"draw_white_space": "none",
+									"gutter": false,
+									"highlight_line": false,
+									"is_widget": true,
+									"result_base_dir": "/home/rsaha",
+									"result_file_regex": null,
+									"result_line_regex": null,
+									"rulers":
+									[
+										500
+									],
+									"scroll_past_end": true,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"terminus.highlight_counter": 6,
+									"terminus_view": true,
+									"terminus_view.args":
+									{
+										"auto_close": true,
+										"cancellable": false,
+										"cmd":
+										[
+											"/bin/bash",
+											"-i",
+											"-l"
+										],
+										"config_name": "Login Shell",
+										"cwd": "/home/rsaha",
+										"env":
+										{
+											"LANG": "en_US.UTF-8",
+											"TERM": "linux",
+											"TERMINUS_SUBLIME": "1",
+											"TERM_PROGRAM": "Terminus-Sublime"
+										},
+										"file_regex": null,
+										"line_regex": null,
+										"panel_name": null,
+										"tag": null,
+										"timeit": false,
+										"title": null
+									},
+									"terminus_view.cancellable": false,
+									"terminus_view.key.ctrl+k": true,
+									"terminus_view.key.ctrl+p": true,
+									"terminus_view.natural_keyboard": true,
+									"terminus_view.panel_name": null,
+									"terminus_view.tag": null,
+									"terminus_view.viewport_y": 0.0,
+									"word_wrap": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 36.0
+			},
+			"input":
+			{
+				"height": 81.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.508561897278,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.Terminus":
+			{
+				"height": 260.0
+			},
+			"output.Terminus 2":
+			{
+				"height": 260.0
+			},
+			"output.exec":
+			{
+				"height": 304.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.latextools":
+			{
+				"height": 312.0
+			},
+			"output.merlin":
+			{
+				"height": 248.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"~/garbage dump/something.tex"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 479.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 828.0
+			},
+			"selected_group": 1,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 86,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
